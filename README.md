@@ -59,3 +59,7 @@ print("MSE: ", mse)
 print("R-Squared: ", r2)
 
 
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/3313b894-c11e-400c-a15e-7888676edd1e" />
+
+
+
